@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: zhangyt0906
-baseurl: /
+baseurl: /eywa_docs
 markdown: redcarpet
 safe: false
 highlighter: pygments
